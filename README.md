@@ -1,1 +1,1 @@
-# https://PavelKonstantinovich.github.io/cv
+# https://PavelKonstantinovich.github.io/CV
