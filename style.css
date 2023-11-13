@@ -70,6 +70,13 @@ section {
   margin-right: 10px;
 }
 
+.typ_s::before {
+  content: '';
+  background: url(assets/img/typescript.svg)no-repeat left center;
+  padding-right: 15px;
+  margin-right: 10px;
+}
+
 .js::before {
   content: '';
   background: url(assets/img/js-square.svg)no-repeat left center;
