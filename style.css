@@ -87,7 +87,7 @@ section {
 }
 
 .avatar img {
-  max-width: 250px;
+  max-width: 20vh;
   border-radius: 50%;
 }
 
